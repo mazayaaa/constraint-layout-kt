@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan Constraint Layout</string>
+    <string name="hargaProduk">Rp 50.000,00</string>
+    <string name="namaProduk">Mie Aceh</string>
+    <string name="deskripsiProduk">
+        Mie Aceh Istimewa: Sensasi Pedas Gurih yang Menggoda!
+        Mie Aceh khas dengan resep tradisional
+        Sebuah piring berisi hidangan lezat dengan telur goreng, spageti, dan sayuran di atas meja kayu.
+    </string>
+</resources>
